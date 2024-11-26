@@ -11,3 +11,7 @@
     display: grid;
     justify-content: center;
 }
+
+.cols {
+    padding: 25px 10px 5px 10px
+}

@@ -2165,8 +2165,8 @@ progress {
     --bs-table-active-bg: rgba(var(--bs-emphasis-color-rgb), 0.1);
     --bs-table-hover-color: var(--bs-emphasis-color);
     --bs-table-hover-bg: rgba(var(--bs-emphasis-color-rgb), 0.075);
-    width: 50%;
-    padding: 0px 30% 0px 30%;
+    width: auto;
+    padding: ;
     margin-bottom: 1rem;
     vertical-align: top;
     border-color: var(--bs-table-border-color)
@@ -8502,7 +8502,7 @@ fieldset:disabled .btn {
 
 .border-primary {
     --bs-border-opacity: 1;
-    border-color: rgba(var(--bs-primary-rgb), var(--bs-border-opacity)) !important
+    border-color: rgba(black), var(--bs-border-opacity) !important
 }
 
 .border-secondary {
